@@ -135,7 +135,7 @@ Ensure to replace `YOUR_MONGODB_URL` with your actual MongoDB URL. The `PORT` va
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Shivam-Sharma-1/Dashboard.git
+git clone https://github.com/G-o-ah/business-analytics-dashboard.git
 ```
 
 2. Change to the project directory:
